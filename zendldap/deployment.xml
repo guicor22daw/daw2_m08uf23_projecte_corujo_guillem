@@ -3,7 +3,7 @@
     <name>zendldap</name>
     <summary>Mostra dades usuari sysdev</summary>
     <version>
-        <release>1.1</release>
+        <release>1.2</release>
     </version>
     <appdir>data</appdir>
 </package>

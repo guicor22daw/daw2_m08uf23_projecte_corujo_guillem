@@ -42,7 +42,7 @@ if ($entrada){
 <html>
 <head>
 <title>
-ELIMINAR USUARIS
+MODIFICAR USUARIS
 </title>
 </head>
 <body>
